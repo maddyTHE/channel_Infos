@@ -1,17 +1,17 @@
 [
   {
     "url": "https://s6.hopslan.com/zdfx1/index.m3u8",
-    "image": "https://i.ibb.co/X80BcLr/zdf.png",
+    "image": "https://i.ibb.co/HFRBNg9/ZDF.png",
     "channel": "ZDF"
   },
   {
     "url": "https://mcdn.daserste.de/daserste/de/master.m3u8",
-    "image": "https://i.ibb.co/yhGB3wc/erste.png",
+    "image": "https://i.ibb.co/HrcGWNW/ard1.png",
     "channel": "Das Erste"
   },
   {
     "url": "https://s6.hopslan.com/sat1x1/index.m3u8",
-    "image": "https://i.ibb.co/74Kt8Nm/sat1.png",
+    "image": "https://i.ibb.co/rQH0m7T/sat1.png",
     "channel": "Sat1"
   },
   {
@@ -21,17 +21,17 @@
   },
   {
     "url": "https://s6.hopslan.com/voxx1/index.m3u8",
-    "image": "https://i.ibb.co/3fhK6nC/vox.jpg",
+    "image": "https://i.ibb.co/1v5266t/vox.png",
     "channel": "Vox"
   },
   {
     "url": "https://s6.hopslan.com/nick/index.m3u8",
-    "image": "https://i.ibb.co/m0ycN6D/nickelodeon.png",
+    "image": "https://i.ibb.co/47XDxbz/nickelodeon.png",
     "channel": "Nickelodeon"
   },
   {
     "url": "https://s6.hopslan.com/kika/index.m3u8",
-    "image": "https://i.ibb.co/wWh0GTz/kika.png",
+    "image": "https://i.ibb.co/FYDnNyb/kika.png",
     "channel": "Kika"
   },
   {
@@ -46,32 +46,33 @@
   },
   {
     "url": "https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8",
-    "image": "https://i.ibb.co/W3Kszrn/phoenix.png",
+    "image": "https://i.ibb.co/HpCGLjs/pheonix.png",
     "channel": "Phoenix"
   },
   {
     "url": "https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8",
-    "image": "https://i.ibb.co/sFLwL3w/br.png",
+    "image": "https://i.ibb.co/MfHCSCj/br.png",
     "channel": "BR"
   },
+
   {
     "url": "https://srfs.akamaized.net/hls/live/689649/srfsgeo/master-270p-828.m3u8",
-    "image": "https://i.ibb.co/DbwrSSY/sr.png",
+    "image": "https://i.ibb.co/KqZMgQx/sr.png",
     "channel": "SR Fernsehen"
   },
   {
     "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8",
-    "image": "https://i.ibb.co/gd7xhnQ/ndr.png",
+    "image": "https://i.ibb.co/xXb7TxD/ndr.png",
     "channel": "NDR"
   },
   {
     "url": "https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master-360p-1328.m3u8",
-    "image": "https://i.ibb.co/N1kGSgH/swr.png",
+    "image": "https://i.ibb.co/K9S504V/swr.png",
     "channel": "SWR"
   },
   {
     "url": "https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8",
-    "image": "https://i.ibb.co/wpWxh3d/DW.png",
+    "image": "https://i.ibb.co/Zmg7vdJ/dw.png",
     "channel": "DW"
   },
   {
@@ -81,34 +82,35 @@
   },
   {
     "url": "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8",
-    "image": "https://i.ibb.co/sRwsZT1/wdr.png",
+    "image": "https://i.ibb.co/4dhbVy1/wdr.png",
     "channel": "WDR"
-  },{
+  },
+  {
     "url": "https://s6.hopslan.com/arte/index.m3u8",
-    "image": "https://i.ibb.co/5spGXx3/arte.png",
+    "image": "https://i.ibb.co/z6p0X6T/arte.png",
     "channel": "arte"
   },
   {
     "url": "https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_cc.m3u8",
-    "image": "https://i.ibb.co/8mYXwfC/hr.png",
+    "image": "https://i.ibb.co/fd4gbNC/hr.png",
     "channel": "hr"
   },
   {
     "url": "https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8",
-    "image": "https://i.ibb.co/gjkwP92/rbb.png",
+    "image": "https://i.ibb.co/5k78ZqJ/rbb.png",
     "channel": "rbb"
   },
   {
-    "url": "https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8",
-    "image": "https://i.ibb.co/jZfVcPC/radiobremen.png",
+    "url": "https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8" ,
+    "image": "https://i.ibb.co/Tvd2nHh/radiobremen.png",
     "channel": "radiobremen"
   },
   {
     "url": "https://mcdn.one.ard.de/ardone/hls/master.m3u8",
-    "image": "https://i.ibb.co/D9J1Sjq/one.png",
+    "image": "https://i.ibb.co/8xgxwW0/one-channel.png",
     "channel": "one"
   },
-  {
+ {
     "url": "https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master.m3u8",
     "image": "https://i.ibb.co/VLC37Rj/servous-tv.png",
     "channel": "Servous TV"
@@ -139,18 +141,8 @@
     "channel": "WELT"
   },
   {
-    "url": "https://s6.hopslan.com/kabel1x1/index.m3u8",
-    "image": "https://i.ibb.co/1bY3Ymz/kabeleins.png",
-    "channel": "Kabeleins"
-  },
-  {
-    "url": "https://s6.hopslan.com/sixx1/index.m3u8",
-    "image": "https://i.ibb.co/tJbxGPH/sixx.jpg",
-    "channel": "sixx"
-  },
-  {
     "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
-    "image": "https://i.ibb.co/c6rZRHC/tagesschau.png",
+    "image": "https://i.ibb.co/HTg8mmH/tagesschau.png",
     "channel": "tagesschau"
   }
   ,
@@ -165,15 +157,15 @@
     "image": "https://i.ibb.co/1RfLjCC/RTLZWEI.png",
     "channel": "RTLZWEI"
   },
-  {
+ {
     "url": "https://s6.hopslan.com/ntvx1/index.m3u8",
     "image": "https://i.ibb.co/kGLr07M/RTL.png",
     "channel": "N-TV"
   },
   {
     "url": "https://s6.hopslan.com/nitrox1/index.m3u8",
-    "image": "https://i.ibb.co/tKB5dQw/RTLNITRO.jpg",
-    "channel": "RTLnitro"
+    "image": "https://i.ibb.co/yFVLwKS/rtl-nitro.png",
+    "channel": "RTL Nitro"
   },
   {
     "url": "https://s6.hopslan.com/superx1/index.m3u8",
@@ -182,12 +174,12 @@
   },
   {
     "url": "https://s6.hopslan.com/tlcx1/index.m3u8",
-    "image": "https://i.ibb.co/72zN5cx/tlc.png",
+    "image": "https://i.ibb.co/6gt4NMC/tlc.png",
     "channel": "TLC"
   },
   {
     "url": "https://s6.hopslan.com/pro7x1/index.m3u8",
-    "image": "https://i.ibb.co/44HH3gc/PRO7.png",
+    "image": "https://i.ibb.co/r2JfRfm/pro7.png",
     "channel": "PRO7"
   },
   {
@@ -207,17 +199,17 @@
   },
   {
     "url": "https://s6.hopslan.com/vivax1/index.m3u8",
-    "image": "https://i.ibb.co/yV5qLX0/comedycentral.png",
+    "image": "https://i.ibb.co/8dvhqnF/comedy.png",
     "channel": "Comedy Central"
   },
-  {
+ {
     "url": "https://s6.hopslan.com/disneyx1/index.m3u8",
-    "image": "https://i.ibb.co/gwxDYKk/disney.png",
+    "image": "https://i.ibb.co/yd8dpdZ/disney.png",
     "channel": "Disney"
   },
   {
     "url": "https://s6.hopslan.com/tele5x1/index.m3u8",
-    "image": "https://i.ibb.co/dQ5J0ff/tele5.png",
+    "image": "https://i.ibb.co/gRcDXY2/tele5.png",
     "channel": "TELE5"
   },
   {
@@ -229,13 +221,13 @@
     "url": "https://s4.hopslan.com/wunder/index.m3u8",
     "image": "https://i.ibb.co/Gt9N1k3/WELT-DER-WUNDER.png",
     "channel": "WELT DER WUNDER"
+  },
+ {
+    "url": "https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/f46d7f18-9156-4d7d-9f68-23a6f1b494d4:BRU/master.m3u8",
+    "image": "https://i.ibb.co/gRbhtT5/bloomberg.png",
+    "channel": "Bloomberg TV"
   }
   ,
-  {
-    "url": "https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/f46d7f18-9156-4d7d-9f68-23a6f1b494d4:BRU/master.m3u8",
-    "image": "https://i.ibb.co/HYhHchK/bloomberg.png",
-    "channel": "Bloomberg Television"
-  }
   
   
 ]

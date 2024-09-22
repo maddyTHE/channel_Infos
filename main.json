@@ -10,7 +10,7 @@
     "channel": "Das Erste"
   },
   {
-    "url": "https://s6.hopslan.com/sat1x1/index.m3u8",
+    "url": "https://s6.hopslan.com/sat1x11/index.m3u8",
     "image": "https://i.ibb.co/rQH0m7T/sat1.png",
     "channel": "Sat1"
   },
@@ -147,7 +147,7 @@
   },
 
   {
-    "url": "https://s6.hopslan.com/rtlq222/tracks-v1a1/mono.m3u8",
+    "url": "https://s6.hopslan.com/rtlq1/index.m3u8",
     "image": "https://i.ibb.co/kGLr07M/RTL.png",
     "channel": "RTL"
   }
@@ -161,7 +161,7 @@
   {
     "url": "https://s6.hopslan.com/nitrox1/index.m3u8",
     "image": "https://i.ibb.co/yFVLwKS/rtl-nitro.png",
-    "channel": "RTL Nitro"
+    "channel": "RTL NITRO"
   },
   {
     "url": "https://s6.hopslan.com/superx1/index.m3u8",
@@ -172,6 +172,16 @@
     "url": "https://s6.hopslan.com/ntvx1/index.m3u8",
     "image": "https://i.ibb.co/Zx8Xyvn/NTV.png",
     "channel": "N-TV"
+  },
+  {
+    "url": "https://s6.hopslan.com/tele5x1/index.m3u8",
+    "image": "https://i.ibb.co/gRcDXY2/tele5.png",
+    "channel": "TELE5"
+  },
+  {
+    "url": "https://s6.hopslan.com/goldx1/index.m3u8",
+    "image": "https://i.ibb.co/qJFWyxW/sat1gold.png",
+    "channel": "Sat1 Gold"
   },
   {
     "url": "https://s6.hopslan.com/tlcx1/index.m3u8",
@@ -193,11 +203,7 @@
     "image": "https://i.ibb.co/rmfKMvb/Kabeleins-Doku.png",
     "channel": "Kabeleins Doku"
   },
-  {
-    "url": "https://s6.hopslan.com/goldx1/index.m3u8",
-    "image": "https://i.ibb.co/qJFWyxW/sat1gold.png",
-    "channel": "Sat1 Gold"
-  },
+  
   {
     "url": "https://s6.hopslan.com/vivax1/index.m3u8",
     "image": "https://i.ibb.co/8dvhqnF/comedy.png",
@@ -209,30 +215,30 @@
     "channel": "Disney"
   },
   {
-    "url": "https://s6.hopslan.com/tele5x1/index.m3u8",
-    "image": "https://i.ibb.co/gRcDXY2/tele5.png",
-    "channel": "TELE5"
-  },
-  {
     "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
     "image": "https://i.ibb.co/HTg8mmH/tagesschau.png",
     "channel": "tagesschau"
   }
   ,
   {
-    "url": "",
-    "image": "https://i.ibb.co/CHfVRk9/MDF1.jpg",
+    "url": "https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:mdf1_high/chunklist_w1358780210.m3u8",
+    "image": "https://i.ibb.co/WkVQGNS/MDF1.png",
     "channel": "MDF1"
   },
   {
-    "url": "https://s4.hopslan.com/wunder/index.m3u8",
+    "url": "https://s6.hopslan.com/wunder/tracks-v1a1/mono.m3u8",
     "image": "https://i.ibb.co/Gt9N1k3/WELT-DER-WUNDER.png",
     "channel": "WELT DER WUNDER"
   },
  {
-    "url": "https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/f46d7f18-9156-4d7d-9f68-23a6f1b494d4:BRU/master.m3u8",
+    "url": "https://dai.google.com/linear/hls/pa/event/TPKhqf0BQn2_ijC-0rOJcA/stream/066267c2-4e96-475b-9986-336a3bd76f17:BRU/master.m3u8",
     "image": "https://i.ibb.co/gRbhtT5/bloomberg.png",
     "channel": "Bloomberg TV"
+  },
+  {
+    "url": "https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/f46d7f18-9156-4d7d-9f68-23a6f1b494d4:BRU/master.m3u8",
+    "image": "https://i.ibb.co/gRbhtT5/bloomberg.png",
+    "channel": "Sky Sports News"
   }
   
   

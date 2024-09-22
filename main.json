@@ -2,7 +2,7 @@
   {
     "url": "https://s6.hopslan.com/zdfx1/index.m3u8",
     "image": "https://i.ibb.co/HFRBNg9/ZDF.png",
-    "channel": "Zdfhggg"
+    "channel": "ZDF"
   },
   {
     "url": "https://mcdn.daserste.de/daserste/de/master.m3u8",
@@ -25,7 +25,12 @@
     "channel": "Vox"
   },
   {
-    "url": "https://s6.hopslan.com/nick/index.m3u8",
+    "url": "https://s6.hopslan.com/kabel1x1/index.m3u8",
+    "image": "https://i.ibb.co/SNGynGm/kabeleins.png",
+    "channel": "Kabeleins"
+  },
+  {
+    "url": "https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/master_900.m3u8",
     "image": "https://i.ibb.co/47XDxbz/nickelodeon.png",
     "channel": "Nickelodeon"
   },
@@ -66,12 +71,12 @@
     "channel": "NDR"
   },
   {
-    "url": "https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master-360p-1328.m3u8",
+    "url": "https://mcdn.swr.de/swr/swrbwd/master.m3u8",
     "image": "https://i.ibb.co/K9S504V/swr.png",
     "channel": "SWR"
   },
   {
-    "url": "https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8",
+    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8",
     "image": "https://i.ibb.co/Zmg7vdJ/dw.png",
     "channel": "DW"
   },
@@ -91,7 +96,7 @@
     "channel": "arte"
   },
   {
-    "url": "https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_cc.m3u8",
+    "url": "https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8",
     "image": "https://i.ibb.co/fd4gbNC/hr.png",
     "channel": "hr"
   },
@@ -117,16 +122,16 @@
   },
   {
     "url": "https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8",
-    "image": "https://i.ibb.co/cNsK7LQ/alpha.jpg",
+    "image": "https://i.ibb.co/tK9WG6Z/alpha.png",
     "channel": "alpha"
   },
   {
-    "url": "https://streaming-s1free.sport1.de/A5IeLqJTcn3ky2qfMhWszA==,1678127379/ls-45420-1/index.m3u8",
-    "image": "https://i.ibb.co/svsy50R/sport1.png",
+    "url": "https://streaming-s1free.sport1.de/qsYZlFm98Va5U6VfoRGy5A==,1723905083/ls-45420-1/index.m3u8",
+    "image": "https://i.ibb.co/mzVF6wb/sport1.png",
     "channel": "Sport1"
   },
   {
-    "url": "https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8",
+    "url": "https://ac-009.live.p7s1video.net/0e6fdb42/t_009/mtv-de/cenc-default.mpd",
     "image": "https://i.ibb.co/m5Q19y4/mtv.png",
     "channel": "Mtv"
   },
@@ -140,15 +145,10 @@
     "image": "https://i.ibb.co/xDMzp6v/welt.png",
     "channel": "WELT"
   },
-  {
-    "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
-    "image": "https://i.ibb.co/HTg8mmH/tagesschau.png",
-    "channel": "tagesschau"
-  }
-  ,
+
   {
     "url": "https://s6.hopslan.com/rtlq1/index.m3u8",
-    "image": "https://i.ibb.co/Zx8Xyvn/NTV.png",
+    "image": "https://i.ibb.co/kGLr07M/RTL.png",
     "channel": "RTL"
   }
   ,
@@ -157,11 +157,7 @@
     "image": "https://i.ibb.co/1RfLjCC/RTLZWEI.png",
     "channel": "RTLZWEI"
   },
- {
-    "url": "https://s6.hopslan.com/ntvx1/index.m3u8",
-    "image": "https://i.ibb.co/kGLr07M/RTL.png",
-    "channel": "N-TV"
-  },
+ 
   {
     "url": "https://s6.hopslan.com/nitrox1/index.m3u8",
     "image": "https://i.ibb.co/yFVLwKS/rtl-nitro.png",
@@ -171,6 +167,11 @@
     "url": "https://s6.hopslan.com/superx1/index.m3u8",
     "image": "https://i.ibb.co/Wnnmdty/suuperrtl.png",
     "channel": "superRTL"
+  },
+  {
+    "url": "https://s6.hopslan.com/ntvx1/index.m3u8",
+    "image": "https://i.ibb.co/Zx8Xyvn/NTV.png",
+    "channel": "N-TV"
   },
   {
     "url": "https://s6.hopslan.com/tlcx1/index.m3u8",
@@ -213,9 +214,15 @@
     "channel": "TELE5"
   },
   {
+    "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
+    "image": "https://i.ibb.co/HTg8mmH/tagesschau.png",
+    "channel": "tagesschau"
+  }
+  ,
+  {
     "url": "",
     "image": "https://i.ibb.co/CHfVRk9/MDF1.jpg",
-    "channel": "MDF1 not working"
+    "channel": "MDF1"
   },
   {
     "url": "https://s4.hopslan.com/wunder/index.m3u8",
@@ -227,7 +234,7 @@
     "image": "https://i.ibb.co/gRbhtT5/bloomberg.png",
     "channel": "Bloomberg TV"
   }
-  ,
+  
   
   
 ]

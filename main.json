@@ -68,7 +68,7 @@
     "channel": "SR Fernsehen"
   },
   {
-    "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8",
+    "url": " https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8",
     "image": "https://i.ibb.co/xXb7TxD/ndr.png",
     "channel": "NDR"
   },

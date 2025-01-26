@@ -53,7 +53,7 @@
     "channel": "ZDF info"
   },
   {
-    "url": "https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8",
+    "url": "https://s6.hopslan.com/phoenix/tracks-v1a1/mono.ts.m3u8",
     "image": "https://i.ibb.co/HpCGLjs/pheonix.png",
     "channel": "Phoenix"
   },
@@ -104,7 +104,7 @@
     "channel": "hr"
   },
   {
-    "url": "https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8",
+    "url": "https://s6.hopslan.com/rbb/tracks-v1a1/mono.ts.m3u8",
     "image": "https://i.ibb.co/5k78ZqJ/rbb.png",
     "channel": "rbb"
   },
@@ -114,7 +114,7 @@
     "channel": "radiobremen"
   },
   {
-    "url": "https://mcdn.one.ard.de/ardone/hls/master.m3u8",
+    "url": "https://s6.hopslan.com/onetv/tracks-v1a1/mono.ts.m3u8",
     "image": "https://i.ibb.co/8xgxwW0/one-channel.png",
     "channel": "one"
   },

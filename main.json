@@ -38,12 +38,12 @@
     "channel": "Nickelodeon"
   },
   {
-    "url": "https://s6.hopslan.com/kika/index.m3u8",
+    "url": "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master-360p-1200.m3u8",
     "image": "https://i.ibb.co/FYDnNyb/kika.png",
     "channel": "Kika"
   },
   {
-    "url": "https://s6.hopslan.com/zdfneox1/index.m3u8",
+    "url": "https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8",
     "image": "https://i.ibb.co/PxRRbH6/zdf-neo.png",
     "channel": "ZDF neo"
   },
@@ -84,7 +84,7 @@
     "channel": "DW"
   },
   {
-    "url": "https://s6.hopslan.com/mdr/index.m3u8",
+    "url": "https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8",
     "image": "https://i.ibb.co/6N7y17f/mdr.png",
     "channel": "mdr"
   },
@@ -104,7 +104,7 @@
     "channel": "hr"
   },
   {
-    "url": "https://s6.hopslan.com/rbb/tracks-v1a1/mono.ts.m3u8",
+    "url": "https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8",
     "image": "https://i.ibb.co/5k78ZqJ/rbb.png",
     "channel": "rbb"
   },
@@ -119,7 +119,7 @@
     "channel": "one"
   },
  {
-    "url": "https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master.m3u8",
+    "url": "https://dms.redbull.tv/v5/destination/stv/PN0B1EC15B2FE10/personal_computer/http/de/de_DE/playlist.m3u8",
     "image": "https://i.ibb.co/zHNY5F8/servous-TV.png",
     "channel": "Servous TV"
   },
@@ -212,11 +212,6 @@
     "image": "https://i.ibb.co/8dvhqnF/comedy.png",
     "channel": "Comedy Central"
   },
- {
-    "url": "https://s6.hopslan.com/disneyx1/index.m3u8",
-    "image": "https://i.ibb.co/yd8dpdZ/disney.png",
-    "channel": "Disney"
-  },
   {
     "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
     "image": "https://i.ibb.co/HTg8mmH/tagesschau.png",
@@ -232,13 +227,7 @@
     "url": "https://s6.hopslan.com/wunder/tracks-v1a1/mono.m3u8",
     "image": "https://i.ibb.co/Gt9N1k3/WELT-DER-WUNDER.png",
     "channel": "WELT DER WUNDER"
-  },
- {
-    "url": "https://dai.google.com/linear/hls/pa/event/TPKhqf0BQn2_ijC-0rOJcA/stream/066267c2-4e96-475b-9986-336a3bd76f17:BRU/master.m3u8",
-    "image": "https://i.ibb.co/gRbhtT5/bloomberg.png",
-    "channel": "Bloomberg TV"
-  },
-
+  }
   
   
   

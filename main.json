@@ -48,7 +48,7 @@
     "channel": "ZDF neo"
   },
   {
-    "url": "https://s6.hopslan.com/zdfinfox1/index.m3u8",
+    "url": "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8",
     "image": "https://i.ibb.co/F7YX75j/zdf-info.png",
     "channel": "ZDF info"
   },

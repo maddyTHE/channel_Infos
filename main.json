@@ -43,7 +43,7 @@
     "channel": "Kika"
   },
   {
-    "url": "https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8",
+    "url": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8",
     "image": "https://i.ibb.co/PxRRbH6/zdf-neo.png",
     "channel": "ZDF neo"
   },
@@ -53,7 +53,7 @@
     "channel": "ZDF info"
   },
   {
-    "url": "https://s6.hopslan.com/phoenix/tracks-v1a1/mono.ts.m3u8",
+    "url": "https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8",
     "image": "https://i.ibb.co/HpCGLjs/pheonix.png",
     "channel": "Phoenix"
   },

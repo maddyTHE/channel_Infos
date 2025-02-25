@@ -7,7 +7,7 @@
     "channel": "Sat1"
   },
   {
-    "url": "https://s6.hopslan.com/3sat/index.m3u8",
+    "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
     "image": "https://i.ibb.co/yhQTh0D/3sat.png",
     "channel": "3sat"
   },
@@ -94,7 +94,7 @@
     "channel": "WDR"
   },
   {
-    "url": "https://s6.hopslan.com/arte/index.m3u8",
+    "url": "https://artelivezdf.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
     "image": "https://i.ibb.co/z6p0X6T/arte.png",
     "channel": "arte"
   },

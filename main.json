@@ -6,7 +6,7 @@
     "channel": "Vox"
   },
   {
-    "url": "https://s6.hopslan.com/kabel1x1/index.m3u8",
+    "url": "https://s6.hopslan.com/kabel1X/tracks-v1a1/mono.ts.m3u8",
     "image": "https://i.ibb.co/SNGynGm/kabeleins.png",
     "channel": "Kabeleins"
   },
@@ -16,7 +16,7 @@
     "channel": "ZDF"
   },
   {
-    "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8",
+    "url": "https://s6.hopslan.com/ardX/index.m3u8",
     "image": "https://i.ibb.co/HrcGWNW/ard1.png",
     "channel": "Das Erste"
   },

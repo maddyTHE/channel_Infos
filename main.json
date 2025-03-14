@@ -78,7 +78,7 @@
     "channel": "mdr"
   },
    {
-    "url": "https://s6.hopslan.com/sat1x1/tracks-v1a1/mono.ts.m3u8",
+    "url": "https://s6.hopslan.com/3satX/index.m3u8",
     "image": "https://i.ibb.co/yhQTh0D/3sat.png",
     "channel": "3sat"
   },
@@ -88,7 +88,7 @@
     "channel": "WDR"
   },
   {
-    "url": "https://artelivezdf.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
+    "url": "https://s6.hopslan.com/arteX/index.m3u8",
     "image": "https://i.ibb.co/z6p0X6T/arte.png",
     "channel": "arte"
   },
@@ -133,7 +133,7 @@
     "channel": "Mtv"
   },
   {
-    "url": "https://s6.hopslan.com/dmax1/index.m3u8",
+    "url": "https://s6.hopslan.com/dmaxX/index.m3u8",
     "image": "https://i.ibb.co/Rh2rSSW/dmax.png",
     "channel": "DMAX"
   },

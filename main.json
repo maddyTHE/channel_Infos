@@ -83,7 +83,7 @@
     "channel": "mdr"
   },
    {
-    "url": "https://s6.hopslan.com/3satX/index.m3u8",
+    "url": "https://s4.hopslan.com/3satX/index.m3u8",
     "image": "https://i.ibb.co/yhQTh0D/3sat.png",
     "channel": "3sat"
   },
@@ -103,7 +103,7 @@
     "channel": "hr"
   },
   {
-    "url": "https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8",
+    "url": "https://s4.hopslan.com/rbbX/index.m3u8",
     "image": "https://i.ibb.co/5k78ZqJ/rbb.png",
     "channel": "rbb"
   },

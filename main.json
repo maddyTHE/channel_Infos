@@ -2,7 +2,7 @@
 
   {
     "url": "https://strm.hdtvizlecanli.com/live/vox.m3u8",
-    "image": "https://i.ibb.co/1v5266t/vox.png",
+    "image": "https://i.ibb.co/Kxd7B3dR/image.png",
     "channel": "Vox"
   },
     {
@@ -16,7 +16,7 @@
     "channel": "Kabeleins"
   },
   {
-    "url": "https://s6.hopslan.com/zdfX/index.m3u8",
+    "url": "https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u88",
     "image": "https://i.ibb.co/HFRBNg9/ZDF.png",
     "channel": "ZDF"
   },
@@ -68,7 +68,7 @@
     "channel": "NDR"
   },
   {
-    "url": "https://mcdn.swr.de/swr/swrbwd/master.m3u8",
+    "url": "https://s6.hopslan.com/swrX/index.m3u8",
     "image": "https://i.ibb.co/K9S504V/swr.png",
     "channel": "SWR"
   },
@@ -78,7 +78,7 @@
     "channel": "DW"
   },
   {
-    "url": "https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8",
+    "url": "https://s4.hopslan.com/mdrX/index.m3u8",
     "image": "https://i.ibb.co/6N7y17f/mdr.png",
     "channel": "mdr"
   },
